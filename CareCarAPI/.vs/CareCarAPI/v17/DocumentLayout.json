@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\models\\carecarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\models\\carecarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\carecarapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\carecarapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\controllers\\trangthaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\controllers\\trangthaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\controllers\\lichhencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\controllers\\lichhencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|d:\\file b\u00E0i t\u1EADp\\carecar\\carecarapi\\carecarapi\\models\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A73C20C-F754-463B-8FC1-3F384294BF1D}|CareCarAPI\\CareCarAPI.csproj|solutionrelative:carecarapi\\models\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LichHenController.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\LichHenController.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Controllers\\LichHenController.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\LichHenController.cs",
+              "RelativeToolTip": "CareCarAPI\\Controllers\\LichHenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:38:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "CareCarAPI\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwFUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:38:42.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Program.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Program.cs",
+              "RelativeToolTip": "CareCarAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:06:27.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DichVuController.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\DichVuController.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Controllers\\DichVuController.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\DichVuController.cs",
+              "RelativeToolTip": "CareCarAPI\\Controllers\\DichVuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:07:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CareCarAPI\\appsettings.json",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\appsettings.json",
+              "RelativeToolTip": "CareCarAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T19:05:04.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CareCarContext.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Models\\CareCarContext.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Models\\CareCarContext.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Models\\CareCarContext.cs",
+              "RelativeToolTip": "CareCarAPI\\Models\\CareCarContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:06:12.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LienHeController.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\LienHeController.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Controllers\\LienHeController.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\LienHeController.cs",
+              "RelativeToolTip": "CareCarAPI\\Controllers\\LienHeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:39:01.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CareCarAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CareCarAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T19:08:26.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CareCarAPI",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\CareCarAPI.csproj",
+              "RelativeDocumentMoniker": "CareCarAPI\\CareCarAPI.csproj",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\CareCarAPI.csproj",
+              "RelativeToolTip": "CareCarAPI\\CareCarAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T19:08:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "CareCarAPI\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:39:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangThaiController.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\TrangThaiController.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Controllers\\TrangThaiController.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Controllers\\TrangThaiController.cs",
+              "RelativeToolTip": "CareCarAPI\\Controllers\\TrangThaiController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:39:28.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Models\\DichVu.cs",
+              "RelativeDocumentMoniker": "CareCarAPI\\Models\\DichVu.cs",
+              "ToolTip": "D:\\File b\u00E0i t\u1EADp\\CareCar\\CareCarAPI\\CareCarAPI\\Models\\DichVu.cs",
+              "RelativeToolTip": "CareCarAPI\\Models\\DichVu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:06:17.806Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
